@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Session19_Assignment1</string>
+    <string name="location">City</string>
+    <string name="current_date_time">DateTimeFormat</string>
+    <string name="current_temperature_details">Temperature Details</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="current_temperature">Temperature</string>
+</resources>
